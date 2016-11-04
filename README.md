@@ -16,3 +16,6 @@ Slideshare by Mel Chua:
   Based on a signal processing class for audiology graduate students, taught by a deaf musician.
 
   http://www.slideshare.net/mchua/sigproc-selfstudy-17323823
+
+
+  Video https://www.youtube.com/watch?v=P1h_vaX9n5E
